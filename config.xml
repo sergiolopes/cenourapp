@@ -13,5 +13,9 @@
     <author href="http://sergiolopes.org" email="qualquer@sergiolopes.org">
         Sérgio Lopes
     </author>
-    
+
+    <preference name="permissions" value="none" />
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+
 </widget>
