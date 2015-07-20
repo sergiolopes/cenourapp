@@ -81,6 +81,7 @@ body {
             transform: translateX(-50%);
 }
 
+
 /* hack android velho */
 body { -webkit-animation: bugfix infinite 1s; }
 @-webkit-keyframes bugfix {
