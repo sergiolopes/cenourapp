@@ -19,9 +19,9 @@
     <preference name="fullscreen" value="true" />
 
     <preference name="android-minSdkVersion" value="16" />
-    <gap:platform name="android" />
+    <platform name="android" />
 
     <icon src="icon.png" />
-    <gap:splash src="splash.png" />
+    <splash src="splash.png" />
 
 </widget>
